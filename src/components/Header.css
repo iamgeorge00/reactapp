@@ -1,0 +1,28 @@
+.layout-navbar-fixed .wrapper .main-header {
+    height: 40px;
+    background-color: #3c8dbc !important;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1033;
+}
+
+.fixed .main-header, .fixed .main-sidebar, .fixed .left-side {
+    position: fixed;
+    padding-bottom: 0px;
+}
+.main-header {
+    max-height: 100px;
+    z-index: 1033;
+    padding-bottom: 0px;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    box-shadow: 1.5px 2px #d6d6d6;
+}
+
+.Head-Anchor {
+    height: 48px;
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reactsadeliveryapp",
+  "private_key_id": "ed8a852a2472ada3f5481b444c4796996cbec5ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCDO41yzAs6mxrq\n2k3pCoT5ksOH0v+FhTZg13JiDJmhlzvsZ+gSdyubjeJTc4Hd8PpNJy3JSSpzUp5W\nfe92qzDfHLaZspQAm0IURQph8CZZLJxxqbkq/gdqukyo7naLiS3RMQendvJUR2s9\ntem2AjnAKV/SQ0a7ByGE36dsyOH01nBw/gaEkBrkrSmXaoVjY1/QyHKpeywV6G83\nIirFWJSKjXeKZwky6VHJx2ijV5TnSNytOCw9b24hR6WWErBtWOaniz8/dLVV3Ttn\nBmWmnUVQg1qDiuEjWll2i6jPaYFNRdkfH415nxUzS7foYo5kpjRqT/TrhNwRJJcU\nOYFxxYCPAgMBAAECggEABXTjc8OCMASlAODk3my+jLYKhUpDr6STV0F+Ew+dD7f/\nGNxVLPdhi81BfODPpI/RiIW5hKYTKspjpQsFevSxSoWiHg/r0X6jJ76bKOlYXtrZ\nAmzhMyVu34QxjdCkgzbH/evA+riaaOCzV9SJjDTZe+D8h/yeI0avoRu/lWlg49I7\nilsj7FApK5F+KMWoTZvZX912KXFjNJnRH+fQnPstU3EU+HNz8WBA2551RpQGtD1d\nNDlUUTh/iUHrX130aZagqrF3k2eA62Iyel6V1X2ZojJhUeHHQEjESWC/R5H/S8hZ\nyvMI2JHkFx5YQnfeVnYGTZXxO15auQ6KkY7c1ishuQKBgQC5Lt8oDO3gee1zrNsB\n75K7InjUDv2a6Ddk+cXZWyiB8I04rd/QZMPMJOoMX9wKY6CseFpse3E98DeZ9Vbe\n3jYAR20X7S53QppVUoh+D9u2AwCIMxsw+B2adrS0ac1/7Oj35ARYy7GPusddGQ3/\nJSEj3vvWxO5hAX422WoJiNFKWwKBgQC1awRBoW5rSzcL2dsJxMgAffHcJXo31oIv\n8Ayyqr9nYC++M2M0N9DzGhQL1+MixinidXNCMhYqxAsx7jUfS2Xz35ao4jDK6MmI\n7Wee3k0merJ/PgOLhkStgxPc+Yv0DpHnl0hRjsNHLzL2foaOdzHyDHrXGWFkqeH4\n4YWvPZnw3QKBgQCBJHbr71hVG7LE4N860mB5sOiiunGR/i/jc2zO0AvH0oIp7NgQ\n9LS3QWcXiiJh/Gio3qXw0YV/tG6SJ86VTlJKj4U9EmM9OG144z3c7CJFJILSeRGV\nbPL4LaCH0OFHPWiat6Fwa11A5vjxq+9e5/3cjj0C4gN8ExZ6GdUhIRET0QKBgCET\nswH4WfaMDyxE+0/Lph+Y1vkpiCAYJ0JwRRBqW12QxwOpwOOrbZh1X8RNB2e2s7pL\nacle8nW3qsbexKbBC4Ssdn6yRu0oBl7F0kfABlcGtfbHKsRMpcbxCDUY9rB325hb\nF99u5SHcdDFHHmdpShz0s4z2XrCI3N+Q1tv9okytAoGBAKoZ9VI0+KSk9Za/NRMG\nLUg1ZRNEr9hrGj4Y8wZrL3JJaDRSrWbVsJks5+87H1PZmC2YjrgjUYB45nvtDvsX\nXOzZGEWizZ9hmUlyzreTQ8jmoTKbyX+IVBgs/iwbzyogHPcRJbkN7KRRPCvxW25l\nvpMYAuCJ+0HNmGDWmkchzeJQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "reactgsapi@reactsadeliveryapp.iam.gserviceaccount.com",
+  "client_id": "104115430041928527192",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reactgsapi%40reactsadeliveryapp.iam.gserviceaccount.com"
+}

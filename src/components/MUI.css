@@ -1,0 +1,42 @@
+.MTableToolbar-title-23 {
+    color: #357EBD;
+}
+.MuiToolbar-gutters {
+    padding-left: 0px !important;
+}
+.MuiTableCell-head,.MuiTableCell-head .material-icons {
+    color: #357EBD !important;
+    font-weight: bold !important;
+    font-size: "18px";
+}
+.MuiButtonBase-root {
+    text-align: center !important;
+}
+.MTableToolbar-root-19 {
+    padding-right: 8px;
+    /* border-top: solid 2px; */
+    /* border-top-color: #357EBD; */
+    border-bottom: solid 2px;
+    border-bottom-color: #357EBD;
+}
+.MuiTableHead-root {
+    border-top: solid 2px;
+    border-top-color: #357EBD;
+    border-bottom: solid 2px;
+    border-bottom-color: #357EBD;
+}
+
+.MuiPaper-root {
+    padding: 5px 20px;
+}
+.MuiTableCell-alignLeft {
+    text-align: center !important;
+}
+.MuiTableSortLabel-root {
+    color: #357EBD;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: inherit;
+    justify-content: flex-start;
+}

@@ -1,0 +1,10 @@
+.content-header {
+    margin: 0px;
+    padding: 0px;
+    z-index: 1033;
+    padding-top: 55px;
+}
+.content-wrapper{
+    padding: 0px;
+    z-index: 1033;
+}

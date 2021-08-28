@@ -1,0 +1,17 @@
+.footer-container {
+    height: 25px;
+
+}
+
+.main-footer {
+    background-color: #000d1a;
+    border-top: 1px solid #dee2e6;
+    color: #869099;
+    margin-top: 10px;
+    padding: 5px;
+    /*
+    Z-index : 1050;
+    Position : sticky;
+    Bottom : 0;
+    */
+}
